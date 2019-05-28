@@ -1,7 +1,7 @@
 # Data Engineering Project
 
 ## What problem will we solve? ##
-We will look at the most populated U.S. cities and identify which ones are the most expensive and the most affordable to live in. This will help us decide which city we'd like to move to next.
+We will look at the most populous U.S. cities and identify which ones are the most expensive and the most affordable to live in. This will help us decide which city we'd like to move to next.
 
 ## What datasets will we use? ##
 
