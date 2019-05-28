@@ -26,5 +26,4 @@ II. Join the Data <br/>
 
 III. Analyze the Data
 
-## For step by step code, refer to 'DataEngineering.ipynb'.
- 
+## For step by step code, refer to 'DataEngineering.ipynb'. The output of this notebook code is 'topCitiesJoined.csv', whcih lists the most populous U.S. cities as well as their 'Cost Score' and 'Cost Rank'. This CSV is ready to be uploaded to a BigQuery table.
