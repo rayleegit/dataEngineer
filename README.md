@@ -16,11 +16,6 @@ We will scrape three datasets: <br/>
 ## How will we use these datasets to solve the problem? ##
 We will append (2) median home value data and (3) household income data to the (1) list of most populous U.S. cities, and then calculate a "Cost Score", which shows for each city how many years of income is required to purchase a median value home. This tells us, relative to other cities, how costly it is to live in a particular city. We will then create a "Cost Rank" based on this score. </br>
 
-"Cost Score" equation is:
-$$\mathtt Cost Score= \frac{Median Home Value}{Median Income}$$
-
-If "Cost Score" = 1,000,000 / 100,000 = 10, this means it takes 10 years of median income to purchase a median value home.
-
 ## What steps will we take to do this? ##
 
 We will: <br/>
